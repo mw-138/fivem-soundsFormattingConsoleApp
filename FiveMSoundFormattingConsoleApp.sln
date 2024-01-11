@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiveMSoundFormattingConsoleApp", "FiveMSoundFormattingConsoleApp.csproj", "{7EDA472E-6C9D-4EEB-8A46-7F734E76F0DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EDA472E-6C9D-4EEB-8A46-7F734E76F0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EDA472E-6C9D-4EEB-8A46-7F734E76F0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EDA472E-6C9D-4EEB-8A46-7F734E76F0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EDA472E-6C9D-4EEB-8A46-7F734E76F0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F15A399D-F9C9-4985-8FF4-A52BC67B6CA6}
+	EndGlobalSection
+EndGlobal
